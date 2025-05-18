@@ -1,20 +1,23 @@
 ----
-- [CV](.)
-- [Web Site](https://aliakpoyraz)
-- [LinkedIn](https://linkedin.com/in/aliakpoyraz)
-- [Mail](mailto:aliakpoyraz@gmail.com)
-- [Instagram](https://instagram.com/aliakpoyraz)
+<p align="center">
+  <a href=".">CV</a> &nbsp;&nbsp; 
+  <a href="https://aliakpoyraz">Web Site</a> &nbsp;&nbsp; 
+  <a href="https://linkedin.com/in/aliakpoyraz">LinkedIn</a> &nbsp;&nbsp; 
+  <a href="mailto:aliakpoyraz@gmail.com">Mail</a> &nbsp;&nbsp; 
+  <a href="https://instagram.com/aliakpoyraz">Instagram</a>
+</p>
+
 
 ----
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="html, css, js, react" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,postgres" alt="tailwind, node, express, postgres" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,git,linux,postman" alt="mongodb, git, linux, postman" />
 </p>
 
