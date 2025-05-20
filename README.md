@@ -1,6 +1,6 @@
 ----
 <p align="center">
-  <a href=".">CV</a> &nbsp;&nbsp; 
+  <a href="https://github.com/aliakpoyraz/aliakpoyraz/raw/main/cv.pdf">CV</a> &nbsp;&nbsp; 
   <a href="https://aliakpoyraz">Web Site</a> &nbsp;&nbsp; 
   <a href="https://linkedin.com/in/aliakpoyraz">LinkedIn</a> &nbsp;&nbsp; 
   <a href="mailto:aliakpoyraz@gmail.com">Mail</a> &nbsp;&nbsp; 
