@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,linux,postman" alt="mongodb, git, linux, postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,linux,postman" alt="mongodb, git, linux, postman, docker" />
 </p>
 
 ----
