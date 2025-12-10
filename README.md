@@ -6,7 +6,4 @@
   <a href="mailto:aliakpoyraz@gmail.com">Mail</a> &nbsp;&nbsp; 
   <a href="https://instagram.com/aliakpoyraz">Instagram</a>
 </p>
-
-
-----
 ----
